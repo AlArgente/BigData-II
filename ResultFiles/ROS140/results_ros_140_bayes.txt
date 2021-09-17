@@ -1,0 +1,6 @@
+Precision: 0.5291233575210825
+Confusion Matrix 0.0  470596.0  
+0.0  528808.0  
+TNR: 0.0
+TPR: 1.0
+Resultado: 0.420581844959597
